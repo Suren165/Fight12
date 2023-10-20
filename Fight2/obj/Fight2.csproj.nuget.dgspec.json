@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\suren.arakelyan\\Documents\\Programering\\Fight2\\Fight2\\Fight2.csproj": {}
+    "C:\\Users\\suren.arakelyan\\Documents\\Programering\\Fight2\\Fight2\\Fight2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\suren.arakelyan\\Documents\\Programering\\Fight2\\Fight2\\Fight2.csproj": {
+    "C:\\Users\\suren.arakelyan\\Documents\\Programering\\Fight2\\Fight2\\Fight2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\suren.arakelyan\\Documents\\Programering\\Fight2\\Fight2\\Fight2.csproj",
+        "projectUniqueName": "C:\\Users\\suren.arakelyan\\Documents\\Programering\\Fight2\\Fight2\\Fight2.csproj",
         "projectName": "Fight2",
-        "projectPath": "c:\\Users\\suren.arakelyan\\Documents\\Programering\\Fight2\\Fight2\\Fight2.csproj",
+        "projectPath": "C:\\Users\\suren.arakelyan\\Documents\\Programering\\Fight2\\Fight2\\Fight2.csproj",
         "packagesPath": "C:\\Users\\suren.arakelyan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\suren.arakelyan\\Documents\\Programering\\Fight2\\Fight2\\obj\\",
+        "outputPath": "C:\\Users\\suren.arakelyan\\Documents\\Programering\\Fight2\\Fight2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
