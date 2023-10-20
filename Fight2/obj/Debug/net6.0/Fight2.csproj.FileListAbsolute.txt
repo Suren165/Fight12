@@ -1,0 +1,15 @@
+c:\Users\suren.arakelyan\Documents\Programering\Fight2\Fight2\bin\Debug\net6.0\Fight2.exe
+c:\Users\suren.arakelyan\Documents\Programering\Fight2\Fight2\bin\Debug\net6.0\Fight2.deps.json
+c:\Users\suren.arakelyan\Documents\Programering\Fight2\Fight2\bin\Debug\net6.0\Fight2.runtimeconfig.json
+c:\Users\suren.arakelyan\Documents\Programering\Fight2\Fight2\bin\Debug\net6.0\Fight2.dll
+c:\Users\suren.arakelyan\Documents\Programering\Fight2\Fight2\bin\Debug\net6.0\Fight2.pdb
+c:\Users\suren.arakelyan\Documents\Programering\Fight2\Fight2\obj\Debug\net6.0\Fight2.csproj.AssemblyReference.cache
+c:\Users\suren.arakelyan\Documents\Programering\Fight2\Fight2\obj\Debug\net6.0\Fight2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\suren.arakelyan\Documents\Programering\Fight2\Fight2\obj\Debug\net6.0\Fight2.AssemblyInfoInputs.cache
+c:\Users\suren.arakelyan\Documents\Programering\Fight2\Fight2\obj\Debug\net6.0\Fight2.AssemblyInfo.cs
+c:\Users\suren.arakelyan\Documents\Programering\Fight2\Fight2\obj\Debug\net6.0\Fight2.csproj.CoreCompileInputs.cache
+c:\Users\suren.arakelyan\Documents\Programering\Fight2\Fight2\obj\Debug\net6.0\Fight2.dll
+c:\Users\suren.arakelyan\Documents\Programering\Fight2\Fight2\obj\Debug\net6.0\refint\Fight2.dll
+c:\Users\suren.arakelyan\Documents\Programering\Fight2\Fight2\obj\Debug\net6.0\Fight2.pdb
+c:\Users\suren.arakelyan\Documents\Programering\Fight2\Fight2\obj\Debug\net6.0\Fight2.genruntimeconfig.cache
+c:\Users\suren.arakelyan\Documents\Programering\Fight2\Fight2\obj\Debug\net6.0\ref\Fight2.dll
